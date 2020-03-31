@@ -1,0 +1,4 @@
+tables
+pandas
+matplotlib
+panel
