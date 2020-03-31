@@ -21,7 +21,7 @@ Interactive Dashboard implements algorithm from (Hanel and Thurner, 2020, prepri
 ### Outputs:
 - Best sample size per test. 
 - Gain (persons per test). 
-- Estimated numbeer of missed infectious, per test.  
+- Estimated maximal number of missed infectious, per test.  
 
 Default values are for Luxembourg. 
 
