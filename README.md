@@ -3,7 +3,7 @@ Estimating the efficacy of PCR pooling in boosting detection of Covid-19 infecti
 
 Interactive Dashboard implements algorithm from (Hanel and Thurner, 2020, preprint) (https://arxiv.org/pdf/2003.09944.pdf).
 
-## Probem statement:
+## Problem statement:
 - Extensive population screening to find Covid-19 carriers is an asset against the epidemic.   
 - Testing capacity is currently a bottleneck.  
 - Pooling samples for PCR has been suggested to boost testing capacity.  
